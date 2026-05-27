@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smseave",
+        "uuid": 18281050,
+        "checksum": "m70tlf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
